@@ -4,15 +4,19 @@ from collections import Counter
 
 DATADIR = "C:\\Users\\Aaron\\python\\nfl\\data"
 
+# Define global variables and open files for writing
 allEndScores = []
 allEndScoresFile = open("allEndScores.txt","w")
 allEndScoresFile.write("ALL FINAL SCORES SINCE 2000\n---------------------------\n")
 scoreCount = Counter()
 scoreCountFile = open("scoreCount.txt","w")
+scoreCountFile.write("FINAL GAME SCORE COUNTS\n-----------------------\n")
 percentages = {}
 percentagesFile = open("percentages.txt","w")
+percentagesFile.write("FINAL GAME SCORE PERCENTAGES\n----------------------------\n")
 
-def parseFile(filename):
+# Parse data
+for filename in os.listdir(DATADIR):
 	tree = ET.parse(DATADIR+"\\"+filename)
 	root = tree.getroot()
 	for game in root.iter("game"):
@@ -24,19 +28,18 @@ def parseFile(filename):
 		else:
 			allEndScores.append(score2[-1:]+","+score1[-1:])
 
-for filename in os.listdir(DATADIR):
-	parseFile(filename)
+# Count Occurances
 for score in allEndScores:
 	scoreCount[score] += 1
 print scoreCount
-totalGames = sum(scoreCount.values())
-scoreCountFile.write("FINAL GAME SCORE COUNTS\n-----------------------\n")
-percentagesFile.write("FINAL GAME SCORE PERCENTAGES\n----------------------------\n")
 
+# Calculate Percentages
+totalGames = sum(scoreCount.values())
 for score in scoreCount.items():
 	percent = 100*float(score[1])/float(totalGames)
 	percentages[score[0]] = str(percent)[:-8]
 
+# Print percentages in a nice sorted manner
 for i in sorted(percentages,key=percentages.get, reverse=True):
 	print "Score: "+i+" - "+percentages[i]+"%"
 	percentagesFile.write("Score: "+i+" - "+percentages[i]+"%\n")
