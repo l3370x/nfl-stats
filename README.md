@@ -1,7 +1,7 @@
 nfl-stats
 =========
 
-game data statistics for nfl scores
+game data statistics for nfl scores since 1978 using python.  Also included is a file with the same statistics from every NFL game in history made using google spreadsheets.
 
 Score: 0,7 - 7.926%  
 Score: 4,7 - 7.200%  
