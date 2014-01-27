@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1989</year><season>Playoffs</season>
+<date day="1989-12-31">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Pittsburgh Steelers</name><score>26</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Houston Oilers</name><score>23</score><site>H</site><line>-7</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>21</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>Philadelphia Eagles</name><score>7</score><site>H</site><line>-3</line></team>
+</game>
+</date>
+<date day="1990-01-06">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Buffalo Bills</name><score>30</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Cleveland Browns</name><score>34</score><site>H</site><line>-3.5</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>13</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>41</score><site>H</site><line>-7.5</line></team>
+</game>
+</date>
+<date day="1990-01-07">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Pittsburgh Steelers</name><score>23</score><site>V</site><line>10</line></team>
+<team tnum="2"><name>Denver Broncos</name><score>24</score><site>H</site><line>-10</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>19</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>New York Giants</name><score>13</score><site>H</site><line>-3</line></team>
+</game>
+</date>
+<date day="1990-01-13">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Cleveland Browns</name><score>21</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Denver Broncos</name><score>37</score><site>H</site><line>-3.5</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>3</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>30</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1990-01-27">
+<game info="Super Bowl XXIV"> 
+<team tnum="1"><name>Denver Broncos</name><score>10</score><line>13</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>55</score><line>-13</line></team>
+</game>
+</date>
+</scores>

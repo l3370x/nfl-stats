@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>2001</year><season>Playoffs</season>
+<date day="2002-01-12">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Tampa Bay Buccaneers</name><score>9</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Philadelphia Eagles</name><score>31</score><site>H</site><line>-3.5</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>New York Jets</name><score>24</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Oakland Raiders</name><score>38</score><site>H</site><line>-4.5</line></team>
+</game>
+</date>
+<date day="2002-01-13">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>San Francisco 49ers</name><score>15</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Green Bay Packers</name><score>25</score><site>H</site><line>-3.5</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Baltimore Ravens</name><score>20</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>3</score><site>H</site><line>-2.5</line></team>
+</game>
+</date>
+<date day="2002-01-19">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>33</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>19</score><site>H</site><line>-3</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Oakland Raiders</name><score>13</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>New England Patriots</name><score>16</score><site>H</site><line>-3</line></team>
+</game>
+</date>
+<date day="2002-01-20">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Baltimore Ravens</name><score>10</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>27</score><site>H</site><line>-5.5</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Green Bay Packers</name><score>17</score><site>V</site><line>11</line></team>
+<team tnum="2"><name>St Louis Rams</name><score>45</score><site>H</site><line>-11</line></team>
+</game>
+</date>
+<date day="2002-01-27">
+<game info="AFC Championship"> 
+<team tnum="1"><name>New England Patriots</name><score>24</score><site>V</site><line>10</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>17</score><site>H</site><line>-10</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>24</score><site>V</site><line>11</line></team>
+<team tnum="2"><name>St Louis Rams</name><score>29</score><site>H</site><line>-11</line></team>
+</game>
+</date>
+<date day="2002-02-03">
+<game info="Super Bowl XXXVI"> 
+<team tnum="1"><name>New England Patriots</name><score>20</score><line>14</line></team>
+<team tnum="2"><name>St Louis Rams</name><score>17</score><line>-14</line></team>
+</game>
+</date>
+</scores>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1997</year><season>Playoffs</season>
+<date day="1997-12-27">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>23</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>New York Giants</name><score>22</score><site>H</site><line>-4.5</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Jacksonville Jaguars</name><score>17</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Denver Broncos</name><score>42</score><site>H</site><line>-6.5</line></team>
+</game>
+</date>
+<date day="1997-12-28">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Miami Dolphins</name><score>3</score><site>V</site><line>5</line></team>
+<team tnum="2"><name>New England Patriots</name><score>17</score><site>H</site><line>-5</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Detroit Lions</name><score>10</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>Tampa Bay Buccaneers</name><score>20</score><site>H</site><line>-3</line></team>
+</game>
+</date>
+<date day="1998-01-03">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>New England Patriots</name><score>6</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>7</score><site>H</site><line>-6</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>22</score><site>V</site><line>11.5</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>38</score><site>H</site><line>-11.5</line></team>
+</game>
+</date>
+<date day="1998-01-04">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Tampa Bay Buccaneers</name><score>7</score><site>V</site><line>13</line></team>
+<team tnum="2"><name>Green Bay Packers</name><score>21</score><site>H</site><line>-13</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Denver Broncos</name><score>14</score><site>V</site><line>0</line></team>
+<team tnum="2"><name>Kansas City Chiefs</name><score>10</score><site>H</site><line>0</line></team>
+</game>
+</date>
+<date day="1998-01-11">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Denver Broncos</name><score>24</score><site>V</site><line>1</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>21</score><site>H</site><line>-1</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Green Bay Packers</name><score>23</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>10</score><site>H</site><line>1.5</line></team>
+</game>
+</date>
+<date day="1998-01-25">
+<game info="Super Bowl XXXII"> 
+<team tnum="1"><name>Denver Broncos</name><score>31</score><line>11</line></team>
+<team tnum="2"><name>Green Bay Packers</name><score>24</score><line>-11</line></team>
+</game>
+</date>
+</scores>

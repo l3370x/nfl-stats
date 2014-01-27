@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1995</year><season>Playoffs</season>
+<date day="1995-12-30">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Miami Dolphins</name><score>22</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Buffalo Bills</name><score>37</score><site>H</site><line>-3.5</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Detroit Lions</name><score>37</score><site>V</site><line>-3</line></team>
+<team tnum="2"><name>Philadelphia Eagles</name><score>58</score><site>H</site><line>3</line></team>
+</game>
+</date>
+<date day="1995-12-31">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Atlanta Falcons</name><score>20</score><site>V</site><line>9.5</line></team>
+<team tnum="2"><name>Green Bay Packers</name><score>37</score><site>H</site><line>-9.5</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Indianapolis Colts</name><score>35</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>San Diego Chargers</name><score>20</score><site>H</site><line>-5.5</line></team>
+</game>
+</date>
+<date day="1996-01-06">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Buffalo Bills</name><score>21</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>40</score><site>H</site><line>-6</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Green Bay Packers</name><score>27</score><site>V</site><line>9.5</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>17</score><site>H</site><line>-9.5</line></team>
+</game>
+</date>
+<date day="1996-01-07">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>11</score><site>V</site><line>13.5</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>30</score><site>H</site><line>-13.5</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Indianapolis Colts</name><score>10</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>Kansas City Chiefs</name><score>7</score><site>H</site><line>-8</line></team>
+</game>
+</date>
+<date day="1996-01-14">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Indianapolis Colts</name><score>16</score><site>V</site><line>11</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>20</score><site>H</site><line>-11</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Green Bay Packers</name><score>27</score><site>V</site><line>9</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>38</score><site>H</site><line>-9</line></team>
+</game>
+</date>
+<date day="1996-01-28">
+<game info="Super Bowl XXX"> 
+<team tnum="1"><name>Pittsburgh Steelers</name><score>17</score><line>13.5</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>27</score><line>-13.5</line></team>
+</game>
+</date>
+</scores>

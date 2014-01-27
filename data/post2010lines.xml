@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<year>2010</year><league>NFL</league><season>Playoffs</season>
+<date day="2011-01-08">
+<game info="NFC Wild Card"><team tnum="1"><name>New Orleans Saints</name><score>36</score><site>V</site><line>-10</line><totline>46</totline></team>
+<team tnum="2"><name>Seattle Seahawks</name><score>41</score><site>H</site><line>10</line><totline>46</totline></team></game>
+<game info="AFC Wild Card"><team tnum="1"><name>New York Jets</name><score>17</score><site>V</site><line>2</line><totline>44.5</totline></team>
+<team tnum="2"><name>Indianapolis Colts</name><score>16</score><site>H</site><line>-2</line><totline>44.5</totline></team></game>
+</date>
+<date day="2011-01-09">
+<game info="AFC Wild Card"><team tnum="1"><name>Baltimore Ravens</name><score>30</score><site>V</site><line>-3</line><totline>41</totline></team>
+<team tnum="2"><name>Kansas City Chiefs</name><score>7</score><site>H</site><line>3</line><totline>41</totline></team></game>
+<game info="NFC Wild Card"><team tnum="1"><name>Green Bay Packers</name><score>21</score><site>V</site><line>2.5</line><totline>47</totline></team>
+<team tnum="2"><name>Philadelphia Eagles</name><score>16</score><site>H</site><line>-2.5</line><totline>47</totline></team></game>
+</date>
+<date day="2011-01-15">
+<game info="AFC Divisional Playoff"><team tnum="1"><name>Baltimore Ravens</name><score>24</score><site>V</site><line>3</line><totline>37</totline></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>31</score><site>H</site><line>-3</line><totline>37</totline></team></game>
+<game info="NFC Divisional Playoff"><team tnum="1"><name>Green Bay Packers</name><score>48</score><site>V</site><line>1.5</line><totline>43.5</totline></team>
+<team tnum="2"><name>Atlanta Falcons</name><score>21</score><site>H</site><line>-1.5</line><totline>43.5</totline></team></game>
+</date>
+<date day="2011-01-16">
+<game info="NFC Divisional Playoff"><team tnum="1"><name>Seattle Seahawks</name><score>24</score><site>V</site><line>10</line><totline>43</totline></team>
+<team tnum="2"><name>Chicago Bears</name><score>35</score><site>H</site><line>-10</line><totline>43</totline></team></game>
+<game info="AFC Divisional Playoff"><team tnum="1"><name>New York Jets</name><score>28</score><site>V</site><line>9.5</line><totline>45</totline></team>
+<team tnum="2"><name>New England Patriots</name><score>21</score><site>H</site><line>-9.5</line><totline>45</totline></team></game>
+</date>
+<date day="2011-01-23">
+<game info="NFC Championship"><team tnum="1"><name>Green Bay Packers</name><score>21</score><site>V</site><line>-3.5</line><totline>42.5</totline></team>
+<team tnum="2"><name>Chicago Bears</name><score>14</score><site>H</site><line>3.5</line><totline>42.5</totline></team></game>
+<game info="AFC Championship"><team tnum="1"><name>New York Jets</name><score>19</score><site>V</site><line>4</line><totline>38</totline></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>24</score><site>H</site><line>-4</line><totline>38</totline></team></game>
+</date>
+<date day="2011-02-06">
+<game info="Super Bowl XLV"><team tnum="1"><name>Pittsburgh Steelers</name><score>25</score><site>V</site><line>3</line><totline>45</totline></team>
+<team tnum="2"><name>Green Bay Packers</name><score>31</score><site>H</site><line>-3</line><totline>45</totline></team></game>
+</date>
+</scores>

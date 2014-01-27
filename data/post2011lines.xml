@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<year>2011</year><league>NFL</league><season>Playoffs</season>
+<date day="2012-01-07">
+<game info="AFC Wild Card"><team tnum="1"><name>Cincinnati Bengals</name><score>10</score><site>V</site><line>4</line><totline>38</totline></team>
+<team tnum="2"><name>Houston Texans</name><score>31</score><site>H</site><line>-4</line><totline>38</totline></team></game>
+<game info="NFC Wild Card"><team tnum="1"><name>Detroit Lions</name><score>28</score><site>V</site><line>10.5</line><totline>60</totline></team>
+<team tnum="2"><name>New Orleans Saints</name><score>45</score><site>H</site><line>-10.5</line><totline>60</totline></team></game>
+</date>
+<date day="2012-01-08">
+<game info="NFC Wild Card"><team tnum="1"><name>Atlanta Falcons</name><score>2</score><site>V</site><line>3</line><totline>48</totline></team>
+<team tnum="2"><name>New York Giants</name><score>24</score><site>H</site><line>-3</line><totline>48</totline></team></game>
+<game info="AFC Wild Card"><team tnum="1"><name>Pittsburgh Steelers</name><score>23</score><site>V</site><line>-7.5</line><totline>34</totline></team>
+<team tnum="2"><name>Denver Broncos</name><score>29</score><site>H</site><line>7.5</line><totline>34</totline></team></game>
+</date>
+<date day="2012-01-14">
+<game info="NFC Divisional Playoff"><team tnum="1"><name>New Orleans Saints</name><score>32</score><site>V</site><line>-3.5</line><totline>47</totline></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>36</score><site>H</site><line>3.5</line><totline>47</totline></team></game>
+<game info="AFC Divisional Playoff"><team tnum="1"><name>Denver Broncos</name><score>10</score><site>V</site><line>13.5</line><totline>50</totline></team>
+<team tnum="2"><name>New England Patriots</name><score>45</score><site>H</site><line>-13.5</line><totline>50</totline></team></game>
+</date>
+<date day="2012-01-15">
+<game info="AFC Divisional Playoff"><team tnum="1"><name>Houston Texans</name><score>13</score><site>V</site><line>8</line><totline>37.5</totline></team>
+<team tnum="2"><name>Baltimore Ravens</name><score>20</score><site>H</site><line>-8</line><totline>37.5</totline></team></game>
+<game info="NFC Divisional Playoff"><team tnum="1"><name>New York Giants</name><score>37</score><site>V</site><line>8</line><totline>54.5</totline></team>
+<team tnum="2"><name>Green Bay Packers</name><score>20</score><site>H</site><line>-8</line><totline>54.5</totline></team></game>
+</date>
+<date day="2012-01-22">
+<game info="AFC Championship"><team tnum="1"><name>Baltimore Ravens</name><score>20</score><site>V</site><line>7</line><totline>50</totline></team>
+<team tnum="2"><name>New England Patriots</name><score>23</score><site>H</site><line>-7</line><totline>50</totline></team></game>
+<game info="NFC Championship"><team tnum="1"><name>New York Giants</name><score>20</score><site>V</site><line>2</line><totline>41.5</totline></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>17</score><site>H</site><line>-2</line><totline>41.5</totline></team></game>
+</date>
+<date day="2012-02-05">
+<game info="Super Bowl XLVI"><team tnum="1"><name>New York Giants</name><score>21</score><line>3</line><totline>53.5</totline></team>
+<team tnum="2"><name>New England Patriots</name><score>17</score><line>-3</line><totline>53.5</totline></team></game>
+</date>
+</scores>

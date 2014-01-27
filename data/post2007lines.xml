@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>2007</year><season>Playoffs</season>
+<date day="2008-01-05">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Washington Redskins</name><score>14</score><site>V</site><line>3.5</line><totline>38.5</totline></team>
+<team tnum="2"><name>Seattle Seahawks</name><score>35</score><site>H</site><line>-3.5</line><totline>38.5</totline></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Jacksonville Jaguars</name><score>31</score><site>V</site><line>-2.5</line><totline>40</totline></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>29</score><site>H</site><line>2.5</line><totline>40</totline></team>
+</game>
+</date>
+<date day="2008-01-06">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>New York Giants</name><score>24</score><site>V</site><line>3</line><totline>39.5</totline></team>
+<team tnum="2"><name>Tampa Bay Buccaneers</name><score>14</score><site>H</site><line>-3</line><totline>39.5</totline></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Tennessee Titans</name><score>6</score><site>V</site><line>10</line><totline>39</totline></team>
+<team tnum="2"><name>San Diego Chargers</name><score>17</score><site>H</site><line>-10</line><totline>39</totline></team>
+</game>
+</date>
+<date day="2008-01-12">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Seattle Seahawks</name><score>20</score><site>V</site><line>7.5</line><totline>44</totline></team>
+<team tnum="2"><name>Green Bay Packers</name><score>42</score><site>H</site><line>-7.5</line><totline>44</totline></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Jacksonville Jaguars</name><score>20</score><site>V</site><line>13.5</line><totline>51.5</totline></team>
+<team tnum="2"><name>New England Patriots</name><score>31</score><site>H</site><line>-13.5</line><totline>51.5</totline></team>
+</game>
+</date>
+<date day="2008-01-13">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>San Diego Chargers</name><score>28</score><site>V</site><line>11</line><totline>47</totline></team>
+<team tnum="2"><name>Indianapolis Colts</name><score>24</score><site>H</site><line>-11</line><totline>47</totline></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>New York Giants</name><score>21</score><site>V</site><line>7</line><totline>47.5</totline></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>17</score><site>H</site><line>-7</line><totline>47.5</totline></team>
+</game>
+</date>
+<date day="2008-01-20">
+<game info="AFC Championship"> 
+<team tnum="1"><name>San Diego Chargers</name><score>12</score><site>V</site><line>14</line><totline>48</totline></team>
+<team tnum="2"><name>New England Patriots</name><score>21</score><site>H</site><line>-14</line><totline>48</totline></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>New York Giants</name><score>23</score><site>V</site><line>7.5</line><totline>41.5</totline></team>
+<team tnum="2"><name>Green Bay Packers</name><score>20</score><site>H</site><line>-7.5</line><totline>41.5</totline></team>
+</game>
+</date>
+<date day="2008-02-03">
+<game info="Super Bowl XLII"> 
+<team tnum="1"><name>New York Giants</name><score>17</score><line>12.5</line><totline>54.5</totline></team>
+<team tnum="2"><name>New England Patriots</name><score>14</score><line>-12.5</line><totline>54.5</totline></team>
+</game>
+</date>
+</scores>

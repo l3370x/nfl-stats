@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>2000</year><season>Playoffs</season>
+<date day="2000-12-30">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Indianapolis Colts</name><score>17</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>23</score><site>H</site><line>1.5</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>St Louis Rams</name><score>28</score><site>V</site><line>-5.5</line></team>
+<team tnum="2"><name>New Orleans Saints</name><score>31</score><site>H</site><line>5.5</line></team>
+</game>
+</date>
+<date day="2000-12-31">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Denver Broncos</name><score>3</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Baltimore Ravens</name><score>21</score><site>H</site><line>-3.5</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Tampa Bay Buccaneers</name><score>3</score><site>V</site><line>-3</line></team>
+<team tnum="2"><name>Philadelphia Eagles</name><score>21</score><site>H</site><line>3</line></team>
+</game>
+</date>
+<date day="2001-01-06">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>New Orleans Saints</name><score>16</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>Minnesota Vikings</name><score>34</score><site>H</site><line>-8</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Miami Dolphins</name><score>0</score><site>V</site><line>9</line></team>
+<team tnum="2"><name>Oakland Raiders</name><score>27</score><site>H</site><line>-9</line></team>
+</game>
+</date>
+<date day="2001-01-07">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Baltimore Ravens</name><score>24</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Tennessee Titans</name><score>10</score><site>H</site><line>-6</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>10</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>New York Giants</name><score>20</score><site>H</site><line>-4.5</line></team>
+</game>
+</date>
+<date day="2001-01-14">
+<game info="NFC Championship"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>0</score><site>V</site><line>-1</line></team>
+<team tnum="2"><name>New York Giants</name><score>41</score><site>H</site><line>1</line></team>
+</game>
+<game info="AFC Championship"> 
+<team tnum="1"><name>Baltimore Ravens</name><score>16</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Oakland Raiders</name><score>3</score><site>H</site><line>-6</line></team>
+</game>
+</date>
+<date day="2001-01-28">
+<game info="Super Bowl XXXV"> 
+<team tnum="1"><name>New York Giants</name><score>7</score><line>3</line></team>
+<team tnum="2"><name>Baltimore Ravens</name><score>34</score><line>-3</line></team>
+</game>
+</date>
+</scores>

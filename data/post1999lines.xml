@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1999</year><season>Playoffs</season>
+<date day="2000-01-08">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Buffalo Bills</name><score>16</score><site>V</site><line>5</line></team>
+<team tnum="2"><name>Tennessee Titans</name><score>22</score><site>H</site><line>-5</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Detroit Lions</name><score>13</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>27</score><site>H</site><line>-6</line></team>
+</game>
+</date>
+<date day="2000-01-09">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>10</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Minnesota Vikings</name><score>27</score><site>H</site><line>-7</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Miami Dolphins</name><score>20</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Seattle Seahawks</name><score>17</score><site>H</site><line>-3.5</line></team>
+</game>
+</date>
+<date day="2000-01-15">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Miami Dolphins</name><score>7</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>Jacksonville Jaguars</name><score>62</score><site>H</site><line>-8</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Washington Redskins</name><score>13</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Tampa Bay Buccaneers</name><score>14</score><site>H</site><line>-4.5</line></team>
+</game>
+</date>
+<date day="2000-01-16">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>37</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>St Louis Rams</name><score>49</score><site>H</site><line>-7</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Tennessee Titans</name><score>19</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>Indianapolis Colts</name><score>16</score><site>H</site><line>-5.5</line></team>
+</game>
+</date>
+<date day="2000-01-23">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Tennessee Titans</name><score>33</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Jacksonville Jaguars</name><score>14</score><site>H</site><line>-7</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Tampa Bay Buccaneers</name><score>6</score><site>V</site><line>14</line></team>
+<team tnum="2"><name>St Louis Rams</name><score>11</score><site>H</site><line>-14</line></team>
+</game>
+</date>
+<date day="2000-01-30">
+<game info="Super Bowl XXXIV"> 
+<team tnum="1"><name>Tennessee Titans</name><score>16</score><line>7</line></team>
+<team tnum="2"><name>St Louis Rams</name><score>23</score><line>-7</line></team>
+</game>
+</date>
+</scores>

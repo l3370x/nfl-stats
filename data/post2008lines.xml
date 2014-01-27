@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>2008</year><season>Playoffs</season>
+<date day="2009-01-03">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Atlanta Falcons</name><score>24</score><site>V</site><line>2</line><totline>52</totline></team>
+<team tnum="2"><name>Arizona Cardinals</name><score>30</score><site>H</site><line>-2</line><totline>52</totline></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Indianapolis Colts</name><score>17</score><site>V</site><line>-2.5</line><totline>50</totline></team>
+<team tnum="2"><name>San Diego Chargers</name><score>23</score><site>H</site><line>2.5</line><totline>50</totline></team>
+</game>
+</date>
+<date day="2009-01-04">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Baltimore Ravens</name><score>27</score><site>V</site><line>-3.5</line><totline>38</totline></team>
+<team tnum="2"><name>Miami Dolphins</name><score>9</score><site>H</site><line>3.5</line><totline>38</totline></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>26</score><site>V</site><line>-3.5</line><totline>41</totline></team>
+<team tnum="2"><name>Minnesota Vikings</name><score>14</score><site>H</site><line>3.5</line><totline>41</totline></team>
+</game>
+</date>
+<date day="2009-01-10">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Baltimore Ravens</name><score>13</score><site>V</site><line>3</line><totline>33.5</totline></team>
+<team tnum="2"><name>Tennessee Titans</name><score>10</score><site>H</site><line>-3</line><totline>33.5</totline></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Arizona Cardinals</name><score>33</score><site>V</site><line>10</line><totline>49.5</totline></team>
+<team tnum="2"><name>Carolina Panthers</name><score>13</score><site>H</site><line>-10</line><totline>49.5</totline></team>
+</game>
+</date>
+<date day="2009-01-11">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>23</score><site>V</site><line>4</line><totline>39</totline></team>
+<team tnum="2"><name>New York Giants</name><score>11</score><site>H</site><line>-4</line><totline>39</totline></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>San Diego Chargers</name><score>24</score><site>V</site><line>6.5</line><totline>38.5</totline></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>35</score><site>H</site><line>-6.5</line><totline>38.5</totline></team>
+</game>
+</date>
+<date day="2009-01-18">
+<game info="NFC Championship"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>25</score><site>V</site><line>-3.5</line><totline>47</totline></team>
+<team tnum="2"><name>Arizona Cardinals</name><score>32</score><site>H</site><line>3.5</line><totline>47</totline></team>
+</game>
+<game info="AFC Championship"> 
+<team tnum="1"><name>Baltimore Ravens</name><score>14</score><site>V</site><line>6</line><totline>35.5</totline></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>23</score><site>H</site><line>-6</line><totline>35.5</totline></team>
+</game>
+</date>
+<date day="2009-02-01">
+<game info="Super Bowl XLIII"> 
+<team tnum="1"><name>Pittsburgh Steelers</name><score>27</score><line>-6.5</line><totline>46.5</totline></team>
+<team tnum="2"><name>Arizona Cardinals</name><score>23</score><line>6.5</line><totline>46.5</totline></team>
+</game>
+</date>
+</scores>

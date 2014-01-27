@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1991</year><season>Playoffs</season>
+<date day="1991-12-28">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Atlanta Falcons</name><score>27</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>New Orleans Saints</name><score>20</score><site>H</site><line>-6</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Los Angeles Raiders</name><score>6</score><site>V</site><line>5</line></team>
+<team tnum="2"><name>Kansas City Chiefs</name><score>10</score><site>H</site><line>-5</line></team>
+</game>
+</date>
+<date day="1991-12-29">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>17</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>13</score><site>H</site><line>-3</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>New York Jets</name><score>10</score><site>V</site><line>9</line></team>
+<team tnum="2"><name>Houston Oilers</name><score>17</score><site>H</site><line>-9</line></team>
+</game>
+</date>
+<date day="1992-01-04">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Atlanta Falcons</name><score>7</score><site>V</site><line>11.5</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>24</score><site>H</site><line>-11.5</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Houston Oilers</name><score>24</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Denver Broncos</name><score>26</score><site>H</site><line>-3.5</line></team>
+</game>
+</date>
+<date day="1992-01-05">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>6</score><site>V</site><line>0</line></team>
+<team tnum="2"><name>Detroit Lions</name><score>38</score><site>H</site><line>0</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Kansas City Chiefs</name><score>14</score><site>V</site><line>10.5</line></team>
+<team tnum="2"><name>Buffalo Bills</name><score>37</score><site>H</site><line>-10.5</line></team>
+</game>
+</date>
+<date day="1992-01-12">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Denver Broncos</name><score>7</score><site>V</site><line>12</line></team>
+<team tnum="2"><name>Buffalo Bills</name><score>10</score><site>H</site><line>-12</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Detroit Lions</name><score>10</score><site>V</site><line>14</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>41</score><site>H</site><line>-14</line></team>
+</game>
+</date>
+<date day="1992-01-26">
+<game info="Super Bowl XXVI"> 
+<team tnum="1"><name>Buffalo Bills</name><score>24</score><line>7</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>37</score><line>-7</line></team>
+</game>
+</date>
+</scores>
