@@ -31,6 +31,7 @@ for score in allEndScores:
 print scoreCount
 totalGames = sum(scoreCount.values())
 scoreCountFile.write("FINAL GAME SCORE COUNTS\n-----------------------\n")
+percentagesFile.write("FINAL GAME SCORE PERCENTAGES\n----------------------------\n")
 
 for score in scoreCount.items():
 	percent = 100*float(score[1])/float(totalGames)
