@@ -4,6 +4,7 @@ nfl-stats
 game data statistics for nfl scores
 
 Score: 0,7 - 7.926%
+
 Score: 4,7 - 7.200%
 Score: 0,3 - 6.369%
 Score: 0,4 - 4.741%
