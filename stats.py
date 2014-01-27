@@ -7,7 +7,7 @@ DATADIR = "C:\\Users\\Aaron\\python\\nfl\\data"
 # Define global variables and open files for writing
 allEndScores = []
 allEndScoresFile = open("allEndScores.txt","w")
-allEndScoresFile.write("ALL FINAL SCORES SINCE 2000\n---------------------------\n")
+allEndScoresFile.write("ALL FINAL SCORES SINCE 1978\n---------------------------\n")
 scoreCount = Counter()
 scoreCountFile = open("scoreCount.txt","w")
 scoreCountFile.write("FINAL GAME SCORE COUNTS\n-----------------------\n")
