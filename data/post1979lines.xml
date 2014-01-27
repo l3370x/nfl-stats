@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1979</year><season>Playoffs</season>
+<date day="1979-12-23">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Chicago Bears</name><score>17</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Philadelphia Eagles</name><score>27</score><site>H</site><line>-6.5</line></team>
+</game>
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Denver Broncos</name><score>7</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Houston Oilers</name><score>13</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1979-12-29">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Houston Oilers</name><score>17</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>San Diego Chargers</name><score>14</score><site>H</site><line>-8</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>17</score><site>V</site><line>-4.5</line></team>
+<team tnum="2"><name>Tampa Bay Buccaneers</name><score>24</score><site>H</site><line>4.5</line></team>
+</game>
+</date>
+<date day="1979-12-30">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Miami Dolphins</name><score>14</score><site>V</site><line>9.5</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>34</score><site>H</site><line>-9.5</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>21</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>19</score><site>H</site><line>-8.5</line></team>
+</game>
+</date>
+<date day="1980-01-06">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Houston Oilers</name><score>13</score><site>V</site><line>9.5</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>27</score><site>H</site><line>-9.5</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>9</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Tampa Bay Buccaneers</name><score>0</score><site>H</site><line>3.5</line></team>
+</game>
+</date>
+<date day="1980-01-20">
+<game info="Super Bowl XIV"> 
+<team tnum="1"><name>Pittsburgh Steelers</name><score>31</score><site>V</site><line>-10</line></team>
+<team tnum="2"><name>Los Angeles Rams</name><score>19</score><site>H</site><line>10</line></team>
+</game>
+</date>
+</scores>

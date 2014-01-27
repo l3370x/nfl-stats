@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1981</year><season>Playoffs</season>
+<date day="1981-12-27">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Buffalo Bills</name><score>31</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>New York Jets</name><score>27</score><site>H</site><line>-3</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>New York Giants</name><score>27</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Philadelphia Eagles</name><score>21</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1982-01-02">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>San Diego Chargers</name><score>41</score><site>V</site><line>-2.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>38</score><site>H</site><line>2.5</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Tampa Bay Buccaneers</name><score>0</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>38</score><site>H</site><line>-8</line></team>
+</game>
+</date>
+<date day="1982-01-03">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Buffalo Bills</name><score>21</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Cincinnati Bengals</name><score>28</score><site>H</site><line>-6</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>New York Giants</name><score>24</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>38</score><site>H</site><line>-6</line></team>
+</game>
+</date>
+<date day="1982-01-10">
+<game info="NFC Championship"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>27</score><site>V</site><line>-3</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>28</score><site>H</site><line>3</line></team>
+</game>
+<game info="AFC Championship"> 
+<team tnum="1"><name>San Diego Chargers</name><score>7</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Cincinnati Bengals</name><score>27</score><site>H</site><line>-4.5</line></team>
+</game>
+</date>
+<date day="1982-01-24">
+<game info="Super Bowl XVI"> 
+<team tnum="1"><name>Cincinnati Bengals</name><score>21</score><line>1</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>26</score><line>-1</line></team>
+</game>
+</date>
+</scores>

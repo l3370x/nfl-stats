@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1985</year><season>Playoffs</season>
+<date day="1985-12-29">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>New England Patriots</name><score>26</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>New York Jets</name><score>14</score><site>H</site><line>-3</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>San Francisco 49ers</name><score>3</score><site>V</site><line>-3</line></team>
+<team tnum="2"><name>New York Giants</name><score>17</score><site>H</site><line>3</line></team>
+</game>
+</date>
+<date day="1986-01-04">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Cleveland Browns</name><score>21</score><site>V</site><line>10.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>24</score><site>H</site><line>-10.5</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>0</score><site>V</site><line>2</line></team>
+<team tnum="2"><name>Los Angeles Rams</name><score>20</score><site>H</site><line>-2</line></team>
+</game>
+</date>
+<date day="1986-01-05">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>New England Patriots</name><score>27</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>Los Angeles Raiders</name><score>20</score><site>H</site><line>-5.5</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>New York Giants</name><score>0</score><site>V</site><line>9</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>21</score><site>H</site><line>-9</line></team>
+</game>
+</date>
+<date day="1986-01-12">
+<game info="AFC Championship"> 
+<team tnum="1"><name>New England Patriots</name><score>31</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>14</score><site>H</site><line>-5.5</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>0</score><site>V</site><line>10.5</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>24</score><site>H</site><line>-10.5</line></team>
+</game>
+</date>
+<date day="1986-01-26">
+<game info="Super Bowl XX"> 
+<team tnum="1"><name>New England Patriots</name><score>10</score><line>10</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>46</score><line>-10</line></team>
+</game>
+</date>
+</scores>

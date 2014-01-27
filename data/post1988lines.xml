@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1988</year><season>Playoffs</season>
+<date day="1988-12-24">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Houston Oilers</name><score>24</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>Cleveland Browns</name><score>23</score><site>H</site><line>-3</line></team>
+</game>
+</date>
+<date day="1988-12-26">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>17</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>Minnesota Vikings</name><score>28</score><site>H</site><line>-5.5</line></team>
+</game>
+</date>
+<date day="1988-12-31">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>12</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>20</score><site>H</site><line>-5.5</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Seattle Seahawks</name><score>13</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Cincinnati Bengals</name><score>21</score><site>H</site><line>-6.5</line></team>
+</game>
+</date>
+<date day="1989-01-01">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Houston Oilers</name><score>10</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Buffalo Bills</name><score>17</score><site>H</site><line>-3.5</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>9</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>34</score><site>H</site><line>-3.5</line></team>
+</game>
+</date>
+<date day="1989-01-08">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Buffalo Bills</name><score>10</score><site>V</site><line>4</line></team>
+<team tnum="2"><name>Cincinnati Bengals</name><score>21</score><site>H</site><line>-4</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>San Francisco 49ers</name><score>28</score><site>V</site><line>-2</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>3</score><site>H</site><line>2</line></team>
+</game>
+</date>
+<date day="1989-01-22">
+<game info="Super Bowl XXIII"> 
+<team tnum="1"><name>Cincinnati Bengals</name><score>16</score><line>6</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>20</score><line>-6</line></team>
+</game>
+</date>
+</scores>

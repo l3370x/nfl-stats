@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1986</year><season>Playoffs</season>
+<date day="1986-12-28">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Kansas City Chiefs</name><score>15</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>New York Jets</name><score>35</score><site>H</site><line>-3</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>7</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>19</score><site>H</site><line>-4.5</line></team>
+</game>
+</date>
+<date day="1987-01-03">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>New York Jets</name><score>20</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Cleveland Browns</name><score>23</score><site>H</site><line>-7</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Washington Redskins</name><score>27</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Chicago Bears</name><score>13</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1987-01-04">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>New England Patriots</name><score>17</score><site>V</site><line>4</line></team>
+<team tnum="2"><name>Denver Broncos</name><score>22</score><site>H</site><line>-4</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>San Francisco 49ers</name><score>3</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>New York Giants</name><score>49</score><site>H</site><line>-3</line></team>
+</game>
+</date>
+<date day="1987-01-11">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Denver Broncos</name><score>23</score><site>V</site><line>3</line></team>
+<team tnum="2"><name>Cleveland Browns</name><score>20</score><site>H</site><line>-3</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>Washington Redskins</name><score>0</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>New York Giants</name><score>17</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1987-01-25">
+<game info="Super Bowl XXI"> 
+<team tnum="1"><name>Denver Broncos</name><score>20</score><line>9</line></team>
+<team tnum="2"><name>New York Giants</name><score>39</score><line>-9</line></team>
+</game>
+</date>
+</scores>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1978</year><season>Playoffs</season>
+<date day="1978-12-24">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Houston Oilers</name><score>17</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>9</score><site>H</site><line>-6.5</line></team>
+</game>
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Philadelphia Eagles</name><score>13</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Atlanta Falcons</name><score>14</score><site>H</site><line>-2.5</line></team>
+</game>
+</date>
+<date day="1978-12-30">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Atlanta Falcons</name><score>20</score><site>V</site><line>15</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>27</score><site>H</site><line>-15</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Denver Broncos</name><score>10</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>33</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1978-12-31">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Houston Oilers</name><score>31</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>New England Patriots</name><score>14</score><site>H</site><line>-6</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>10</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Los Angeles Rams</name><score>34</score><site>H</site><line>-7.5</line></team>
+</game>
+</date>
+<date day="1979-01-07">
+<game info="NFC Championship"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>28</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Los Angeles Rams</name><score>0</score><site>H</site><line>3.5</line></team>
+</game>
+<game info="AFC Championship"> 
+<team tnum="1"><name>Houston Oilers</name><score>5</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>34</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1979-01-21">
+<game info="Super Bowl XIII"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>31</score><line>3.5</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>35</score><line>-3.5</line></team>
+</game>
+</date>
+</scores>

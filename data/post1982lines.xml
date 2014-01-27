@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1982</year><season>Playoffs</season>
+<date day="1983-01-08">
+<game info="AFC First Round"> 
+<team tnum="1"><name>Cleveland Browns</name><score>10</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Los Angeles Raiders</name><score>27</score><site>H</site><line>-8.5</line></team>
+</game>
+<game info="NFC First Round"> 
+<team tnum="1"><name>Detroit Lions</name><score>7</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>31</score><site>H</site><line>-6</line></team>
+</game>
+<game info="AFC First Round"> 
+<team tnum="1"><name>New England Patriots</name><score>13</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>28</score><site>H</site><line>-7.5</line></team>
+</game>
+<game info="NFC First Round"> 
+<team tnum="1"><name>St Louis Cardinals</name><score>16</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Green Bay Packers</name><score>41</score><site>H</site><line>-4.5</line></team>
+</game>
+</date>
+<date day="1983-01-09">
+<game info="NFC First Round"> 
+<team tnum="1"><name>Atlanta Falcons</name><score>24</score><site>V</site><line>2</line></team>
+<team tnum="2"><name>Minnesota Vikings</name><score>30</score><site>H</site><line>-2</line></team>
+</game>
+<game info="AFC First Round"> 
+<team tnum="1"><name>New York Jets</name><score>44</score><site>V</site><line>4</line></team>
+<team tnum="2"><name>Cincinnati Bengals</name><score>17</score><site>H</site><line>-4</line></team>
+</game>
+<game info="AFC First Round"> 
+<team tnum="1"><name>San Diego Chargers</name><score>31</score><site>V</site><line>1</line></team>
+<team tnum="2"><name>Pittsburgh Steelers</name><score>28</score><site>H</site><line>-1</line></team>
+</game>
+<game info="NFC First Round"> 
+<team tnum="1"><name>Tampa Bay Buccaneers</name><score>17</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>30</score><site>H</site><line>-8</line></team>
+</game>
+</date>
+<date day="1983-01-15">
+<game info="NFC Second Round"> 
+<team tnum="1"><name>Minnesota Vikings</name><score>7</score><site>V</site><line>6</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>21</score><site>H</site><line>-6</line></team>
+</game>
+<game info="AFC Second Round"> 
+<team tnum="1"><name>New York Jets</name><score>17</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Los Angeles Raiders</name><score>14</score><site>H</site><line>-3.5</line></team>
+</game>
+</date>
+<date day="1983-01-16">
+<game info="NFC Second Round"> 
+<team tnum="1"><name>Green Bay Packers</name><score>26</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>37</score><site>H</site><line>-7</line></team>
+</game>
+<game info="AFC Second Round"> 
+<team tnum="1"><name>San Diego Chargers</name><score>13</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>34</score><site>H</site><line>1.5</line></team>
+</game>
+</date>
+<date day="1983-01-22">
+<game info="NFC Championship"> 
+<team tnum="1"><name>Dallas Cowboys</name><score>17</score><site>V</site><line>-2</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>31</score><site>H</site><line>2</line></team>
+</game>
+</date>
+<date day="1983-01-23">
+<game info="AFC Championship"> 
+<team tnum="1"><name>New York Jets</name><score>0</score><site>V</site><line>1</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>14</score><site>H</site><line>-1</line></team>
+</game>
+</date>
+<date day="1983-01-30">
+<game info="Super Bowl XVII"> 
+<team tnum="1"><name>Washington Redskins</name><score>27</score><line>3</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>17</score><line>-3</line></team>
+</game>
+</date>
+</scores>

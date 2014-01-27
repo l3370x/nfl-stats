@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>NFL</league><year>1983</year><season>Playoffs</season>
+<date day="1983-12-24">
+<game info="AFC Wild Card"> 
+<team tnum="1"><name>Denver Broncos</name><score>7</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Seattle Seahawks</name><score>31</score><site>H</site><line>-3.5</line></team>
+</game>
+</date>
+<date day="1983-12-26">
+<game info="NFC Wild Card"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>24</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>Dallas Cowboys</name><score>17</score><site>H</site><line>-8</line></team>
+</game>
+</date>
+<date day="1983-12-31">
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Detroit Lions</name><score>23</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>San Francisco 49ers</name><score>24</score><site>H</site><line>-7.5</line></team>
+</game>
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Seattle Seahawks</name><score>27</score><site>V</site><line>8</line></team>
+<team tnum="2"><name>Miami Dolphins</name><score>20</score><site>H</site><line>-8</line></team>
+</game>
+</date>
+<date day="1984-01-01">
+<game info="AFC Divisional Playoff"> 
+<team tnum="1"><name>Pittsburgh Steelers</name><score>10</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Los Angeles Raiders</name><score>38</score><site>H</site><line>-7</line></team>
+</game>
+<game info="NFC Divisional Playoff"> 
+<team tnum="1"><name>Los Angeles Rams</name><score>7</score><site>V</site><line>9.5</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>51</score><site>H</site><line>-9.5</line></team>
+</game>
+</date>
+<date day="1984-01-08">
+<game info="AFC Championship"> 
+<team tnum="1"><name>Seattle Seahawks</name><score>14</score><site>V</site><line>7</line></team>
+<team tnum="2"><name>Los Angeles Raiders</name><score>30</score><site>H</site><line>-7</line></team>
+</game>
+<game info="NFC Championship"> 
+<team tnum="1"><name>San Francisco 49ers</name><score>21</score><site>V</site><line>10</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>24</score><site>H</site><line>-10</line></team>
+</game>
+</date>
+<date day="1984-01-22">
+<game info="Super Bowl XVIII"> 
+<team tnum="1"><name>Los Angeles Raiders</name><score>38</score><line>2</line></team>
+<team tnum="2"><name>Washington Redskins</name><score>9</score><line>-2</line></team>
+</game>
+</date>
+</scores>
